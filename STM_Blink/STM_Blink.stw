@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=stm_blink.stp
+Dependencies=
+[Options]
+ActiveProject=stm_blink
+ActiveConfig=Debug
+AddSortedElements=0

@@ -1,0 +1,52 @@
+STMicroelectronics list file postprocessor v1.01   (C)2009-2015   Sat Jun 13 20:03:13 2015
+Page 1  Assembler
+                                               d:\stm\blinky\main.asm
+
+   1                         stm8/     
+   2                         
+   3                         ;	Simple BLINK step-through program for STM8S
+   4                         ;	Stuff needed:
+   5                         ; STM8S Minimum dev board
+   6                         ;	STM-Link programmer
+   7                         ; LED/Oscilloscope/DMM/Toungue to test the pin output
+   8                         ; 
+   9                         ;	Connections:
+  10                         ;	STM-link to Dev board
+  11                         ; GND to GND
+  12                         ; NRS to NRST
+  13                         ;	SWM to SWIM
+  14                         ; 3V3 to 3V3
+  15                         
+  16                                   segment  'rom'
+  17                                   
+  18  008080   721E500C                      bset     $500C, #7     ; Set DDR high for Pin 7 of PORT
+                                                                ; C
+  19  008084   721E500D                      bset     $500D, #7
+  20  008088   721E500E                      bset     $500E, #7
+  21                         loop_forever  
+  22  00808C   AE000F                        ldw      X,#$F
+  23                         loop_delay  
+  24  00808F   9D                            nop      
+  25  008090   9D                            nop      
+  26  008091   9D                            nop      
+  27  008092   9D                            nop      
+  28  008093   9D                            nop      
+  29  008094   5A                            decw     X
+  30  008095   26F8                          jrne     loop_delay
+  31  008097   901E500A                      bcpl     $500A, #7     ;	Toggle Bit 7 in the ODR for 
+                                                                ;PORT C
+  32  00809B   20EF                          jra      loop_forever
+  33                                   
+  34  00809D                                 end      
+STMicroelectronics list file postprocessor v1.01   (C)2009-2015   Sat Jun 13 20:03:13 2015
+Page 2  Assembler
+                                               d:\stm\blinky\main.asm
+
+Symbol Name                       Value     Call       Type  Scope      Rel.  Line  Privacy  Segment   Size  Bytes File
+
+loop_forever                          808C         no  WORD  Internal   ABS     21  private  text         3     0  -
+loop_delay                            808F         no  WORD  Internal   ABS     23  private  text        14     0  -
+
+
+2 labels
+No errors on assembly of 'd:\stm\blinky\main.asm'

@@ -1,0 +1,86 @@
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\mapping.asm'
+No errors on assembly of 'd:\stm\blink_test\mapping.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+d:\stm\blink_test\main.asm(47): as1 : Error 54: Can't match Addressing mode '	bset $500D, #24'
+d:\stm\blink_test\main.asm(48): as1 : Error 54: Can't match Addressing mode '	bset $500E, #24'
+2 errors on assembly of 'd:\stm\blink_test\main.asm'
+d:\stm\blink_test\main.asm(47): as1 : Error 54: Can't match Addressing mode '	bset $500D, #24'
+d:\stm\blink_test\main.asm(48): as1 : Error 54: Can't match Addressing mode '	bset $500E, #24'
+2 errors on assembly of 'd:\stm\blink_test\main.asm'
+d:\stm\blink_test\main.asm(47): as1 : Error 54: Can't match Addressing mode '	bset $500D, #24'
+d:\stm\blink_test\main.asm(48): as1 : Error 54: Can't match Addressing mode '	bset $500E, #24'
+2 errors on assembly of 'd:\stm\blink_test\main.asm'
+d:\stm\blink_test\main.asm(47): as1 : Error 54: Can't match Addressing mode '	bset $500D, #8'
+d:\stm\blink_test\main.asm(48): as1 : Error 54: Can't match Addressing mode '	bset $500E, #8'
+2 errors on assembly of 'd:\stm\blink_test\main.asm'
+d:\stm\blink_test\main.asm(47): as1 : Error 54: Can't match Addressing mode '	bset $500D, #8'
+d:\stm\blink_test\main.asm(48): as1 : Error 54: Can't match Addressing mode '	bset $500E, #8'
+2 errors on assembly of 'd:\stm\blink_test\main.asm'
+d:\stm\blink_test\main.asm(47): as1 : Error 54: Can't match Addressing mode '	bset $500D, #8'
+d:\stm\blink_test\main.asm(48): as1 : Error 54: Can't match Addressing mode '	bset $500E, #8'
+2 errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\mapping.asm'
+No errors on assembly of 'd:\stm\blink_test\mapping.asm'
+No errors on assembly of 'd:\stm\blink_test\mapping.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\mapping.asm'
+No errors on assembly of 'd:\stm\blink_test\mapping.asm'
+No errors on assembly of 'd:\stm\blink_test\mapping.asm'
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+
+d:\stm\blink_test\main.asm(69): as1 : Fatal 4: Illegal Source EOF 'EOF'
+
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
+No errors on assembly of 'd:\stm\blink_test\main.asm'
